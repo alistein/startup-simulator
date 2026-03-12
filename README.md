@@ -2,7 +2,7 @@
 
 ## Pilots need simulators to practice, why not startups founders?
 
----
+
 
 <img width="1624" height="1056" alt="image" src="https://github.com/user-attachments/assets/5d033cc0-530e-4c98-9fae-098fa22f9d6f" />
 
